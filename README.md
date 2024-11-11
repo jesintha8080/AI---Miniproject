@@ -6,10 +6,15 @@
 To build and evaluate a machine Learning model for Predicting a target outcome based on given input features
 ## Algorithm
 Step 1: Import necessary libraries
+
 Step 2: Load the dataset and clean and normalize it for analysis
+
 Step 3: Choose an appropriate Machine Learning model
+
 Step 4: Train the selected model using the training dataset
+
 Step 5: Evaluate the model performance using metrics such as accuracy,precision,recall.
+
 Step 6: Interpret the model's prediction and visualizethe outcomes with relevant Graphs
 
 ## program
