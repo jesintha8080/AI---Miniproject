@@ -18,7 +18,7 @@ Step 5: Evaluate the model performance using metrics such as accuracy,precision,
 Step 6: Interpret the model's prediction and visualizethe outcomes with relevant Graphs
 
 ## program
-
+```
 import pandas as pd
 
 import numpy as np
@@ -96,7 +96,7 @@ plt.ylabel('Predicted Performance')
 plt.title('Actual vs Predicted Performance')
 
 plt.show()
-
+```
 
 ## Output
 ![image](https://github.com/user-attachments/assets/8b464ad9-41e5-41c0-a573-e120d7c1f7dc)
