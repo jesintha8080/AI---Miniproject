@@ -1,7 +1,7 @@
 # AI---Miniproject
 ### BIOMARKERS FOR PREDICTING SPORTS PERFORMANCE
 ## Date - 04-11-2024
-## Register Number : 212222040072
+## Register Number : 212222060096
 ## Aim
 To build and evaluate a machine Learning model for Predicting a target outcome based on given input features
 ## Algorithm
